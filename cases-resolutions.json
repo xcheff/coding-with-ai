@@ -1,0 +1,68 @@
+[
+{
+    "caseId": "X890321",
+    "sentiment": "negative",
+    "anger": false,
+    "subject": "incorrect amount charged for internet usage",
+    "contract": "A6321899",
+    "name": "Pete Hoolin",
+    "address": "8 Park Avenue, Wonderland, NoWhere Street",
+    "email": "pete123@yourcompanyemail.com",
+    "phone": "+57300900000",
+    "resolution": "positive",
+    "action": "refund",
+    "deadline": "2023-11-25",
+    "status": "closed"
+},
+{
+    "caseId": "X890500",
+    "sentiment": "negative",
+    "anger": true,
+    "subject": "incorrect amount charged for internet usage",
+    "contract": "A63280912",
+    "name": "Mark Sullivan",
+    "address": "20 South, Financial District, Plymount Street",
+    "email": "mark.sull@noexists.com",
+    "phone": "+573002000909",
+    "resolution": "negative",
+    "action": "suspension",
+    "deadline": "2023-11-25",
+    "status": "closed"
+},
+{
+    "caseId": "X890789",
+    "sentiment": "negative",
+    "anger": true,
+    "subject": "unstable service",
+    "contract": "A90190023",
+    "name": "Catherine Torres",
+    "address": "6 North, North Square, Yellow Street",
+    "email": "cathe@freedommail.com",
+    "phone": "+575009098766",
+    "resolution": "positive",
+    "action": "field service",
+    "deadline": "2023-11-25",
+    "sow": "TS90887A",
+    "technician": {
+        "name": "Luke Black",
+        "id": "987654543"
+    },
+    "status": "open"
+},
+{
+    "caseId": "X890765",
+    "sentiment": "neutral",
+    "anger": false,
+    "subject": "reduced bandwith",
+    "contract": "A9019056",
+    "name": "Charles Winston",
+    "address": "10 North, Little Village, Green Street",
+    "email": "charly@freedommail.com",
+    "phone": "+5750091238748",
+    "resolution": "positive",
+    "action": "remote service",
+    "deadline": "inmediate",
+    "sow": "TS908900",
+    "status": "closed"
+}
+]

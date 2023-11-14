@@ -1,0 +1,23 @@
+@startjson
+{
+
+    "caseId": "X890789",
+    "sentiment": ["negative", "positive", "neutral"],
+    "anger": [true, false],
+    "subject": "unstable service",
+    "contract": "A90190023",
+    "name": "Catherine Torres",
+    "address": "6 North, North Square, Yellow Street",
+    "email": "cathe@freedommail.com",
+    "phone": "+575009098766",
+    "resolution": "positive",
+    "action": ["field service", "remote service","suspension", "refund"],
+    "deadline": "2023-11-25",
+    "sow": "TS90887A",
+    "technician": {
+        "name": "Luke Black",
+        "id": "987654543"
+    },
+    "status": ["open","closed"]
+}
+@endjson
